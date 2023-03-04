@@ -1,0 +1,17 @@
+ul{
+    list-style-type: upper-roman ;
+}
+#spisok1 {
+    list-style-image: url(https://yandex-images.clstorage.net/iWF4w8216/10f2013z/AzVpEWiOJRMg46mwGFAVp7erRorf5qgSnY4tI5_vV6b1vu3g_u93NxhF-CfIlQdrn5hyiMBC4VFSmMnpHtXsQqZRnAW8T5T30EO5sCiAhBcn2_YKL2bpUu2rqFIv3-b2AK8MsA7ZweAPYo6Qe6LVCSh84rhgN8VV5in_Cq4AOHSBRvvhST_1dmLg6GRJUlbXV7jyOEwmfYA73DxXLK1ncNHu_ZVrqqBgvWB9oJmwpAqpndE58ufEAFXZzWk7AZilMdY5Mas8daUQAWv3aEFXJRWaEuj85n-TOV-vRQ0OFPLR7G2G2LsjcQ9BnYCp48b76i-gKfKkx0BUiP5LCqKJxMBEyYC7nDY3oBKrJWqDZjRVKtCrb8SuwwjOrYcObmVD4qwfZ5lYAWA_QszhmeJWSopNwBqy1TdRNbkvulqwyTZiFtuC6m_3VyBAqKY7YVfnNdnxeU1U3nF77PwEXM520VCsb4f6ytBAjnHPcNhzxTjbj9CKQDbkk5YYzdnrMum00-eYMvuvVubjsQgWepIkZZVos0gtxc-AeC3fpT_txwFjXe_k6KmgcO8wLQK60HeZ6xzTOAJVxgKWS9_p-ZPLZwFGihLa7YcUQJL6xukQR3T22nCrbPdughht_YcenSdBg3_s97uq0jJ-4J5iKKFVmImdg8sS1_bCpjkMSgqgy9WCFCuzCv8lZGDSyZRJ8CU3NavQqNy0btNaPlzlfWwU4wPezwdIyJJxTBM94BhxNioYTyKIc9cHsGcaPCnY8LknQCcrIuqP92Xg0xu0uROlpvTLsNs_9y1wuu6cx98uddDyzM3GyJhjAw3gL4ELsGZoGwxg6aE09kMmih-4WPCLVFMXmgNrPVZF0iGoJaqzVDVHG0LJTTTeItpMHiQ9_iSSoX2s1ouLsrCc0B_g6hJlmwvd0enhZ1TAJkic6QsCCoXQtNkTeQ6ndPKhS-VaoqYHJ8pRGiz2TaN5Py_0792G8);
+}
+#spisok2 {
+    list-style-image: url(https://avatars.mds.yandex.net/get-yapic/24700/enc-ad6daa4510b020543db23792cf165b14/islands-middle);
+}
+img {
+    float: left;
+    margin-right: 10px;
+    box-shadow: 10px 10px 8px rgb(0, 34, 128);
+}
+# img Killer whales {
+    float: right;
+}
